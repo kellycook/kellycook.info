@@ -1,3 +1,3 @@
 # kellycook.info
 
-My resume website.
+A website for my resume.
